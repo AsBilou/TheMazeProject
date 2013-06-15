@@ -50,9 +50,9 @@
                 </string>
                 <string name="app_name" >The Maze
                 </string>
-                <string name="placeHolder_Name" >Name
-                </string>
                 <string name="hello_world" >Hello world!
+                </string>
+                <string name="placeHolder_Name" >Name
                 </string>
             </file>
             <file

@@ -1,7 +1,7 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1370103379000 285 a07c0cf958beb3bf57af03406fae0478becd7cb3 /Users/Bilou/GitHub/Android_app/TheMazeProject/TheMaze/src/main/res/layout/activity_maze.xml
+1371217185000 556 a94e2fa9eb938af2edffcf7a0c16001aa2dbc958 /Users/Bilou/GitHub/Android_app/TheMazeProject/TheMaze/src/main/res/layout/activity_maze.xml
 1370101914000 381 b129b276e01126de5b3b753572ac67cbfc19454c /Users/Bilou/GitHub/Android_app/TheMazeProject/TheMaze/src/main/res/values-v14/styles.xml
 1370101914000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/Bilou/GitHub/Android_app/TheMazeProject/TheMaze/src/main/res/drawable-xhdpi/ic_launcher.png
 1370101914000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/Bilou/GitHub/Android_app/TheMazeProject/TheMaze/src/main/res/drawable-hdpi/ic_launcher.png

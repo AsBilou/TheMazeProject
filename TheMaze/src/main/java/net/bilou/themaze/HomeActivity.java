@@ -13,6 +13,12 @@ public class HomeActivity extends Activity {
         setContentView(R.layout.activity_home);
     }
 
+    /**
+     * Lance le jeu.
+     *
+     * @param v
+     *            la vue de l'application.
+     */
     public  void launchGame(View v){
         Intent mazeActivity = new Intent(getBaseContext(),MazeActivity.class);
         startActivity(mazeActivity);
